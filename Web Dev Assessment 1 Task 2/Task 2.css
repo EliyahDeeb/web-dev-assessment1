@@ -162,6 +162,7 @@ body {
     border-radius: 8px;
     overflow: hidden;
     background-color: #4dccbd;
+    transform: translateY(-550px);
 }
 
 /* Ensure images are displayed on the left side for tall cards */
